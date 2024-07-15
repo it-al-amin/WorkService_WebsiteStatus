@@ -1,0 +1,23 @@
+//sc.exe create WebsiteStatus binpath=D:\Projects\WebsiteStatus.exe start=auto
+
+2024-07-15 20:01:43.993 +06:00 [INF] Starting up the service
+2024-07-15 20:01:45.702 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 20:01:51.583 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 20:01:57.160 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 20:02:03.013 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 20:02:09.042 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 20:02:14.870 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 20:29:56.290 +06:00 [INF] Starting up the service
+2024-07-15 20:29:59.697 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 20:30:05.329 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 20:52:29.447 +06:00 [INF] Starting up the service
+2024-07-15 20:58:53.609 +06:00 [INF] Starting up the service
+2024-07-15 20:58:55.202 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 21:50:02.783 +06:00 [INF] Starting up the service
+2024-07-15 21:50:04.983 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 21:50:10.786 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 21:50:16.425 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 22:49:54.989 +06:00 [INF] Starting up the service
+2024-07-15 22:49:57.484 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 22:50:03.416 +06:00 [INF] The website is up. Status code "OK"
+2024-07-15 22:50:04.192 +06:00 [INF] The service has been stopped....
